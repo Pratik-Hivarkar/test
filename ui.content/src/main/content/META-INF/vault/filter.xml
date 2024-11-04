@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/GlobalToday" mode="merge"/>
+    <filter root="/content/GlobalToday" mode="merge"/>
+    <filter root="/content/dam/GlobalToday/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/GlobalToday" mode="merge"/>
+</workspaceFilter>
